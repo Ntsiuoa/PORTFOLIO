@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0 1rem;
+  line-height: 1.6;
+  background: #f5f7fb;
+  color: #333;
+}
+
+header, footer {
+  text-align: center;
+  background-color: #4b88c5;
+  color: white;
+  padding: 1rem;
+}
+
+a {
+  text-align: center;
+  
+  color: #082220;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+section {
+  margin: 2rem 0;
+}
+
+ul {
+  list-style-type: square;
+  margin-left: 2rem;
+}
+
+footer {
+  font-size: 0.9rem;
+}
